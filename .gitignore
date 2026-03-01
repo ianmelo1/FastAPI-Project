@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+
+# Banco de dados
+*.db
+
+# Variáveis de ambiente (NUNCA suba isso)
+.env
+
+# IDE
+.idea/
